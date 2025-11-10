@@ -89,7 +89,7 @@ customer-support-bot/
 
 ### Starting the Application
 1. Run `streamlit run app.py`
-2. Open the provided local URL in your browser
+2. Open the provided local URL in your browser (typically http://localhost:8508/)
 3. Enter your email (optional) in the sidebar
 4. Choose between text or voice input
 
